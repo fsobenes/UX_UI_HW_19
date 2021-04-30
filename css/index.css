@@ -350,6 +350,19 @@ body{
 			"skills" 
 			"tools";
 	}
+
+	.inputClass{
+		display: flex;
+		flex-direction: column;
+	}
+
+	#name{
+		width: 100%;
+	}
+	#number{
+		width: 100%;
+
+	}
 }
 
 
